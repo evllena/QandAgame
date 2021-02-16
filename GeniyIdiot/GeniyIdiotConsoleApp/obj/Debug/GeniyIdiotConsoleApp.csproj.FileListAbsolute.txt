@@ -1,0 +1,12 @@
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\GeniyIdiotConsoleApp.exe.config
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\GeniyIdiotConsoleApp.exe
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\GeniyIdiotConsoleApp.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\GeniyIdiotConsoleApp.csprojAssemblyReference.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\GeniyIdiotConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\GeniyIdiotConsoleApp.exe
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\GeniyIdiotConsoleApp.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\ClassLibrary1.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\GeniyIdiotConsoleApp.csproj.CopyComplete
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\Newtonsoft.Json.xml

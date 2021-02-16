@@ -1,0 +1,9 @@
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\obj\Debug\GeniyIdiot.Common.csprojAssemblyReference.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\obj\Debug\GeniyIdiot.Common.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Home\Source\Repos\OnlineCourse5Stream\GeniyIdiot\ClassLibrary1\obj\Debug\GeniyIdiot.Common.csproj.CopyComplete
